@@ -1715,6 +1715,27 @@ body {
     width: 100% !important;
   }
 }
+.cid-qPIlouRDHm {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/mbr-810x1080.jpg");
+}
+.cid-qPIlouRDHm .container-fluid {
+  padding: 0 3rem;
+}
+.cid-qPIlouRDHm .media-container-column {
+  padding: 0 2rem;
+}
+.cid-qPIlouRDHm .mbr-section-title {
+  display: inline-block;
+  position: relative;
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-qPIlouRDHm .container-fluid {
+    padding: 0 1rem;
+  }
+}
 .cid-qPDJNz03lp {
   padding-top: 30px;
   padding-bottom: 0px;
