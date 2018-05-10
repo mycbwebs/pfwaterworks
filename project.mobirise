@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PF Waterworks",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "storem4",
       "title": "StoreM4",
@@ -34,7 +34,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "",
