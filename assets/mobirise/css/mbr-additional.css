@@ -1722,7 +1722,51 @@ body {
   -webkit-text-fill-color: transparent;
 }
 .cid-qRkI2xgkjT .mbr-section-subtitle {
-  color: #1ba1e2;
+  color: #096693;
+}
+.cid-qSh0hCYy7K {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qSh0hCYy7K .container-fluid {
+  padding: 0 3rem;
+}
+.cid-qSh0hCYy7K .mbr-text {
+  color: #16a16c;
+}
+.cid-qSh0hCYy7K .card-title {
+  text-align: left;
+  color: #ffa0a4;
+}
+.cid-qSh0hCYy7K p {
+  text-align: left;
+}
+.cid-qSh0hCYy7K .card-img {
+  text-align: left;
+}
+.cid-qSh0hCYy7K .card .card-img span {
+  color: #096693;
+  font-size: 60px;
+  background: linear-gradient(45deg, #096693, #73d97d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@media (max-width: 767px) {
+  .cid-qSh0hCYy7K .container-fluid {
+    padding: 0 1rem;
+  }
+}
+@media (min-width: 1200px) {
+  .cid-qSh0hCYy7K .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qSh0hCYy7K .card-title,
+.cid-qSh0hCYy7K .card-img {
+  color: #096693;
 }
 .cid-qRvnDB6XDI {
   padding-top: 90px;
