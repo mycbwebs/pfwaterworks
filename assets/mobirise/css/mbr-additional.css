@@ -1590,6 +1590,12 @@ body {
 .cid-qPCmXJHJmK .mbr-section-subtitle {
   color: #1ba1e2;
 }
+#custom-html-2t {
+  /* Type valid CSS here */
+}
+#custom-html-2t .my-image {
+  width: 100%;
+}
 .cid-qSgc56EkBz {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1814,7 +1820,7 @@ body {
   color: #767676;
 }
 .cid-qSfiieWJIO B {
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-qSfiieWJIO H4 {
   color: #ffffff;
@@ -2071,7 +2077,7 @@ body {
   color: #52bdf1;
 }
 .cid-qRvgUTRtlB {
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 45px;
   background-color: #232323;
 }
@@ -2107,7 +2113,7 @@ body {
   display: flex;
   padding: 1rem;
   border-radius: 50%;
-  background-color: #fe525b;
+  background-color: #52bdf1;
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
 }
@@ -2159,7 +2165,7 @@ body {
   text-align: left;
 }
 .cid-qRvgUTRtlB .subtext-1 {
-  color: #767676;
+  color: #73d97d;
   text-align: left;
 }
 .cid-qRvgUTRtlB .subtext-2 {
@@ -2217,14 +2223,14 @@ body {
   color: #efefef;
 }
 .cid-qRvgUTRtlB .firstColumn LI {
-  color: #cccccc;
+  color: #efefef;
 }
 .cid-qRvgUTRtlB .follow-heading,
 .cid-qRvgUTRtlB .social-media {
   color: #73d97d;
 }
 .cid-qRvgUTRtlB .secondColumn LI {
-  color: #cccccc;
+  color: #efefef;
 }
 .cid-qPI18oBHU2 .navbar {
   background: #232323;
@@ -2635,7 +2641,7 @@ body {
   text-align: center;
 }
 .cid-qRwiijkjPN {
-  padding-top: 45px;
+  padding-top: 15px;
   padding-bottom: 45px;
   background-color: #232323;
 }
@@ -2671,7 +2677,7 @@ body {
   display: flex;
   padding: 1rem;
   border-radius: 50%;
-  background-color: #fe525b;
+  background-color: #52bdf1;
   transition: all 0.3s ease-out 0s;
   font-size: 14px;
 }
@@ -2723,7 +2729,7 @@ body {
   text-align: left;
 }
 .cid-qRwiijkjPN .subtext-1 {
-  color: #767676;
+  color: #73d97d;
   text-align: left;
 }
 .cid-qRwiijkjPN .subtext-2 {
@@ -2781,12 +2787,12 @@ body {
   color: #efefef;
 }
 .cid-qRwiijkjPN .firstColumn LI {
-  color: #cccccc;
+  color: #efefef;
 }
 .cid-qRwiijkjPN .follow-heading,
 .cid-qRwiijkjPN .social-media {
   color: #73d97d;
 }
 .cid-qRwiijkjPN .secondColumn LI {
-  color: #cccccc;
+  color: #efefef;
 }
