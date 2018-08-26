@@ -71,7 +71,7 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<script src='https://cdn1.pdmntn.com/a/Hkh9JegL7.js'></script>\n",
+        "footer_custom": "",
         "html_before": "\n"
       },
       "components": [
