@@ -849,7 +849,7 @@
               "color": "#ffffff"
             },
             ".mbr-role I": {
-              "color": "#16a16c"
+              "color": "#000000"
             },
             "H2": {
               "color": "#cccccc",
